@@ -1,0 +1,19 @@
+{
+  "name": "highlowgame-handler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Caligone",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --loglevel warn --write '**/*.js'",
+    "deploy": "yarn format && ./deploy.sh"
+  },
+  "dependencies": {
+    "ask-sdk-core": "^2.0.0",
+    "ask-sdk-model": "^1.0.0"
+  },
+  "devDependencies": {
+    "prettier": "1.13.7"
+  }
+}
