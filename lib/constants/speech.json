@@ -1,7 +1,7 @@
 {
     "fr-FR": {
         "ALREADY_IN_GAME": "Une partie est déjà en cours",
-        "EXPLAINATION": "Je peux lancer une partie de plus ou moins dans lequel il vous faudra deviner un nombre. J'ai trois niveaux de difficulté disponibles: Facile, Normal et Difficile",
+        "EXPLAINATION": "Je peux lancer une partie de + ou - dans lequel il vous faudra deviner un nombre. J'ai trois niveaux de difficulté disponibles: Facile, Normal et Difficile",
         "GAME_CANCELED": "Très bien, j'ai terminé la partie, le nombre mystère était {GUESS_NUMBER}. Dommage",
         "GAME_STARTED": "Très bien, j'ai choisi mon nombre. À vous de jouer !",
         "GOODBYE": "À bientôt",
@@ -11,7 +11,7 @@
         "TRY_WIN_RESULT": "Bien joué ! Vous avez trouvé mon nombre en {COUNT} coups. Recommencez une partie quand vous voulez",
         "UNKNOWN_ERROR": "Désolé, je n'ai pas compris ce que vous vouliez dire",
         "UNKNOWN_NUMBER": "Je n'ai pas compris ce nombre, vous pourriez le répéter?",
-        "WELCOME_NO_GAME": "Quel type de partie voulez-vous lancer? Facile, Normal ou Difficile?",
+        "WELCOME_NO_GAME": "Quel type de partie voulez-vous lancer? Facile, Normale ou Difficile?",
         "WELCOME_WITH_GAME": "Vous avez une partie en cours, vous avec effectué {COUNT} tentatives"
     }
 }
