@@ -21,7 +21,7 @@
         ],
         "NO_GAME": [
             "Aucune partie n'est en cours. Lancez-en une pour jouer",
-            "Je crois que vous n'avez aucune partie n'est en cours. Commencez-en une quand vous voulez"
+            "Je crois que vous n'avez aucune partie en cours. Commencez-en une quand vous voulez"
         ],
         "TRY_LESS_RESULT": [
             "C'est moins que {INPUT_NUMBER}",
