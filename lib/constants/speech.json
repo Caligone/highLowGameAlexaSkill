@@ -6,7 +6,7 @@
         "GAME_STARTED": "Très bien, j'ai choisi mon nombre. À vous de jouer !",
         "GOODBYE": "À bientôt",
         "NO_GAME": "Aucune partie n'est en cours. Lancez-en une pour jouer",
-        "TRY_LESS_RESULT": "C'est - que {INPUT_NUMBER}",
+        "TRY_LESS_RESULT": "C'est moins que {INPUT_NUMBER}",
         "TRY_MORE_RESULT": "C'est + que {INPUT_NUMBER}",
         "TRY_WIN_RESULT": "Bien joué ! Vous avez trouvé mon nombre en {COUNT} coups. Recommencez une partie quand vous voulez",
         "UNKNOWN_ERROR": "Désolé, je n'ai pas compris ce que vous vouliez dire",
